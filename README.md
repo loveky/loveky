@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I used to work for [eBay](https://ebay.com), [Rakuten](https://www.rakuten.co.jp/) and [JD](https://jd.com).
+
+For now, I'm working for [Meituan](https://meituan.com).
+
 <!--
 **loveky/loveky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
