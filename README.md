@@ -4,6 +4,10 @@ I used to work for [eBay](https://ebay.com), [Rakuten](https://www.rakuten.co.jp
 
 For now, I'm working at [Meituan](https://meituan.com).
 
+
+![counter](https://https://en4i7xr4i89ckpx.m.pipedream.net)
+
+
 <!--
 **loveky/loveky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
