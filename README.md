@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+
+
 I used to work for [eBay](https://ebay.com), [Rakuten](https://www.rakuten.co.jp/) and [JD](https://jd.com).
 
 For now, I'm working at [Meituan](https://meituan.com).
+
+<img  src="https://github-readme-stats.vercel.app/api?username=loveky&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 
 ![counter](https://en4i7xr4i89ckpx.m.pipedream.net)
