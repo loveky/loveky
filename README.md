@@ -3,10 +3,6 @@
   
 ### 👋 Hi there, I'm Michael and I'm a frontend develper
 
-My name is Michael Wang and I'm a frontend develper
-
-
-
 I'm currently living at Beijing, China 🇨🇳     
 I drink  ☕️  and 🍺    
 💬  Ask me about anything [here](https://github.com/loveky/loveky/issues)
