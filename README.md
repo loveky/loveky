@@ -1,7 +1,7 @@
 <div align="center">
   
   
-### 👋 Hi there, my name is Michael Wang and I'm a frontend develper
+### 👋 Hi there, I'm Michael and I'm a frontend develper
 
 My name is Michael Wang and I'm a frontend develper
 
