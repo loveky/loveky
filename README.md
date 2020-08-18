@@ -1,9 +1,8 @@
 <div align="center">
   
   
-### 👋 Hi there, I'm Michael and I'm a frontend develper
+### 👋 Hi there, I'm Michael and I'm a frontend developer
 
-I'm currently living at Beijing, China 🇨🇳     
 I drink  ☕️  and 🍺    
 💬  Ask me about anything [here](https://github.com/loveky/loveky/issues)
 
