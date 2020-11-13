@@ -3,7 +3,7 @@
   
 ### 👋 Hi there, I'm Michael and I'm a frontend developer
 
-I drink  ☕️  and 🍺    
+I drink  ☕️  , 🫖 and 🍺    
 💬  Ask me about anything [here](https://github.com/loveky/loveky/issues)
 
 ![](https://img.shields.io/badge/OS-Mac_OS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
