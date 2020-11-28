@@ -4,7 +4,6 @@
 ### 👋 Hi there, I'm Michael and I'm a frontend developer
 
 I drink  ☕️  , 🫖 and 🍺    
-💬  Ask me about anything [here](https://github.com/loveky/loveky/issues)
 
 ![](https://img.shields.io/badge/OS-Mac_OS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -12,9 +11,6 @@ I drink  ☕️  , 🫖 and 🍺
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Source_Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-
-
-![counter](https://en4i7xr4i89ckpx.m.pipedream.net)
 
 </div>
 <!--
